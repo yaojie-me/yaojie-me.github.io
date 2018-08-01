@@ -1,10 +1,11 @@
 ---
-layout:post
-title:Linux 服务器部署 JDK 1.8 和 Tomcat 8
-categories:Server
-description:Linux 服务器部署 JDK 1.8 和 Tomcat 8
-keywords:Linux, Server, JDK, Tomcat
+layout: post
+title: CentOS 7 部署 JDK 1.8 和 Tomcat 8
+categories: Server
+description: CentOS 7 部署 JDK 1.8 和 Tomcat 8
+keywords: CentOS, JDK, Tomcat
 ---
+
 
 ## Linux 服务器部署 JDK 1.8 和 Tomcat 8
 
