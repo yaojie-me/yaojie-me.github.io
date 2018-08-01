@@ -91,8 +91,8 @@ comments_provider: gitalk
 gitalk:
     owner: yaojie-me
     repo: blog-comments
-    clientID: b0cf05976fcf79e7bd9d
-    clientSecret: 317f5d89453e22fce7ac2f80e809bc6cb80ecc04
+    clientID: 041891158ec4eb2fc76d
+    clientSecret: f1519acd494fb5ab7d8ce341a667741a1873ef48
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
