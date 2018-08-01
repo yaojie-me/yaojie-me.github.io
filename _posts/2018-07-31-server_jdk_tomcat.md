@@ -83,22 +83,22 @@ cd /usr/local/
 
 2,下载源文件
 ```
-sudo wget https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-8/v8.5.31/bin/apache-tomcat-8.5.31.tar.gz
+wget http://mirrors.shu.edu.cn/apache/tomcat/tomcat-8/v8.5.32/bin/apache-tomcat-8.5.32.tar.gz
 ```
 
 3,解压
 ```
-sudo tar -zxvf apache-tomcat-8.5.31.tar.gz
+tar -zxvf apache-tomcat-8.5.32.tar.gz
 ```
 
 4,删除源文件
 ```
-sudo rm -rf apache-tomcat-8.5.31.tar.gz
+sudo rm -rf apache-tomcat-8.5.32.tar.gz
 ```
 
 5,配置超链接
 ```
-sudo ln -s apache-tomcat-8.5.31 tomcat
+sudo ln -s apache-tomcat-8.5.32 tomcat
 ```
 
 6,设置环境变量
@@ -118,7 +118,8 @@ source /etc/profile
 
 9,赋予用户读取执行权限
 ```
-sudo chmod -R a+rx *
+cd tomcat
+chmod -R a+rx *
 ```
 
 
