@@ -90,7 +90,7 @@ repository: yaojie-me/yaojie-me.github.io
 comments_provider: gitment
 gitment:
     owner: yaojie-me
-    repo: blog-comments
+    repo: yaojie-me.github.io
     oauth:
         client_id: 041891158ec4eb2fc76d
         client_secret: f1519acd494fb5ab7d8ce341a667741a1873ef48
